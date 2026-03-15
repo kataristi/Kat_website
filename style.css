@@ -18,19 +18,14 @@ h1 {
     justify-content: center;
 }
 
-.container {
-    display: flex;
-    align-items: center;     
-    justify-content: center;  
-    width: 60%;              
-    margin: 0 auto;           
-}
- 
-.image_container{
-    display: flex;
-    justify-content: center;
+.image_container {
+    text-align: center;
 }
 
+.profile_img {
+    width: 20%;      
+    height: auto;    
+}
 
 .text {
     flex: 1; 
